@@ -1,7 +1,9 @@
-== README
+# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#このアプリケーションは、画像および、そのコメントを投稿するアプリです。
+ログイン後、詳細ページに遷移できます。
+
+Rails 4.2.6で動作確認できます。
 
 Things you may want to cover:
 
